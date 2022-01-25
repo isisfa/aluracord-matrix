@@ -4,4 +4,4 @@
 
 <hr>
 
-<p><img src="./assets/images/login.png" height="500px"/></p>
+<p><img src="./assets/images/login.png" width="500px"/></p>
